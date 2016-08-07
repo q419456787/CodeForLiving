@@ -1,2 +1,7 @@
 Git For My first
+<<<<<<< HEAD
 Added by Master
+=======
+
+add by new branch named feature1
+>>>>>>> feature1
