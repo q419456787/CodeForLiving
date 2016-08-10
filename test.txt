@@ -1,9 +1,4 @@
 Git For My first
-<<<<<<< HEAD
-Added by Master
-=======
 
-add by new branch named feature1
->>>>>>> feature1
 
 Add by dev For Test management divide 
